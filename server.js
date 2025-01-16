@@ -11,7 +11,7 @@ app.use(express.json());
 
 // Connexion à MongoDB
 mongoose
-  .connect("mongodb://localhost:27017/gestion-stages")
+  .connect("mongodb://localhost:5055/gestion-stages")
   .then(() => console.log("Connexion à MongoDB réussie"))
   .catch((err) => console.error("Erreur de connexion à MongoDB :", err));
 
