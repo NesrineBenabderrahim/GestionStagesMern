@@ -1,1 +1,3 @@
-# GestionStagesMern Develope par NESRINE BENABDERRAHIM 3GL
+# GestionStagesMern Developee par NESRINE BENABDERRAHIM 3GL
+
+#SIMPLE CRUD : REACT/NODE/MONGOOSE
